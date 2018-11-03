@@ -4,6 +4,7 @@ ArkaAcademy
 
 1. Buka file index.php pada web browser
 2. Pilih menu yang tersedia di navbar
+
 Catatan :
 
   1. folder config adalah tempat koneksi database.
